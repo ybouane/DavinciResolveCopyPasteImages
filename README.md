@@ -10,7 +10,9 @@ Stupidly easy to install.
 Download the `ImageClipboardMac.lua` file in releases.
 
 Place the file in `/Users/<Username>/Library/Application Support/Blackmagic Design/DaVinci Resolve/Fusion/Scripts`
+
 *Tip: You can use `Cmd+Shift+.` to show hidden folders/files in Finder.*
+
 The script is accessed through `Workspace>Scripts>ImageClipboard` in Davinci Resolve.  
 
 But before we can run the script, we need probably want to change one line inside the `ImageClipboardMac.lua` file.  
