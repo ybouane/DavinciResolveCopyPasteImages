@@ -7,7 +7,7 @@ Script takes the current image saved to your clipboard and if it does not exists
 Stupidly easy to install.  
 Download the `ImageClipboardMac.lua` file in releases.
 
-Place the file in `/Users/<Username>/Library/Application Support/Blackmagic Design/DaVinci Resolve/Fusion/Scripts`
+Place the file in `/Users/<Username>/Library/Application Support/Blackmagic Design/DaVinci Resolve/Fusion/Scripts/Utility/`
 
 *Tip: You can use `Cmd+Shift+.` to show hidden folders/files in Finder.*
 
@@ -26,7 +26,7 @@ Now you can go back into Davinci Resolve and try it out!
 Stupidly easy to install.  
 Download the `ImageClipboardWindows.lua` file in releases.
 
-Place the file in `C:\Users\<Username>\AppData\Roaming\Blackmagic Design\DaVinci Resolve\Support\Fusion\Scripts\Edit\`
+Place the file in `C:\Users\<Username>\AppData\Roaming\Blackmagic Design\DaVinci Resolve\Support\Fusion\Scripts\Utility\`
 The script is accessed through `Workspace>Scripts>ImageClipboard` in Davinci Resolve.  
 
 But before we can run the script, we need probably want to change one line inside the `ImageClipboardWindows.lua` file.  
