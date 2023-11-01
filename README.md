@@ -1,7 +1,5 @@
-# Davinci Resolve: Image Clipboard Script
-Script takes the current image saved to your clipboard  
-and if it does not exists, creates a new "Clipboard" bin in the mediapool  
-then it adds the newly saved image into that bin, Ready to be dragged into the timeline
+# Script to Copy & Paste Images directly in Davinci Resolve
+Script takes the current image saved to your clipboard and if it does not exists, creates a new "Clipboard" bin in the mediapool then it adds the newly saved image into that bin, Ready to be dragged into the timeline
 
 **Works on Windows & MacOS**
 
