@@ -39,6 +39,12 @@ Don't forget that you *need* a "/" at the end of the path to indicate inside the
 You can also change the image prefix if you want but that's not needed.  
 Now you can go back into Davinci Resolve and try it out!  
 
+
+## Assign custom keyboard shortcut to the script
+Once the script is installed, you can assign a keyboard shortcut to make the use of the script easier:
+<img width="1140" alt="image" src="https://github.com/ybouane/DavinciResolveCopyPasteImages/assets/14046002/8ad60130-bbd5-4745-8dc5-65bc27c5b093">
+
+
 ---
 <p align="center">
   <img src="https://github.com/VilleOlof/DavinciClipboardScript/blob/main/Example.gif" alt="animated" />
